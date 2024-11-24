@@ -24,8 +24,6 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
-
 1. [Решение 1](https://github.com/gorelovniko/gitlab-hw/commit/311405dfa6d8f8cc6731a236a97dbf219af0bb82)
 
 ---
