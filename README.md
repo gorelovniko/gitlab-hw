@@ -42,4 +42,5 @@
 
 ### Задание 4
 
-1. [Решение 4]
+1. [Решение 4.2](https://github.com/gorelovniko/gitlab-hw/network)
+2. [Commit conflict solution](https://github.com/gorelovniko/gitlab-hw/commit/f4cdba12a952ae527bb8150d869ea8a7fd606b6f)
